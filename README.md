@@ -84,5 +84,6 @@ Bash
 cd frontend
 npm install
 npm run dev
+
 📜 Acknowledgements
 This project was developed during the Infosys Internship Program. A special and heartfelt thank you to our mentor, Vinay Sir, for his invaluable guidance, technical insights into Java microservices, and constant support in refining the system architecture.
